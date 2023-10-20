@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.fab.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\Alec\\Downloads\\Full-scaleAssemblyBenchmark-AddingVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\qi750922\\Documents\\GitHub\\FAB-InteractionCues\\FAB-Interaction-Cues\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "FAB [Testing]"
